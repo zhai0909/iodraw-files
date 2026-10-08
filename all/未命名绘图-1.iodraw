@@ -95,6 +95,11 @@
         <mxCell id="gaejie28rJU5xu8OMJkC-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="026l5Ib9RVevUx24vWKY-11" target="gaejie28rJU5xu8OMJkC-4">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="126" y="620" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="680" y="562" />
+              <mxPoint x="680" y="650" />
+              <mxPoint x="126" y="650" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="gaejie28rJU5xu8OMJkC-26" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Helvetica&quot;&gt;Shared at the receiving end&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="gaejie28rJU5xu8OMJkC-19">
