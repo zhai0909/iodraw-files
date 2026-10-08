@@ -97,7 +97,7 @@
             <mxPoint x="126" y="620" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gaejie28rJU5xu8OMJkC-26" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Helvetica&quot;&gt;Shared at the receiving end&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="gaejie28rJU5xu8OMJkC-19">
+        <mxCell id="gaejie28rJU5xu8OMJkC-26" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Helvetica&quot;&gt;Shared at the receiving end&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="gaejie28rJU5xu8OMJkC-19">
           <mxGeometry x="0.0222" y="2" relative="1" as="geometry">
             <mxPoint x="-2" y="-32" as="offset" />
           </mxGeometry>
