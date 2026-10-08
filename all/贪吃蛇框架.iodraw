@@ -192,7 +192,7 @@
           <mxGeometry x="-127" y="260" width="240" height="100" as="geometry" />
         </mxCell>
         <mxCell id="zjmTG8mhLb4dCEUL_jbz-27" value="&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 40px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Text Steganography Framework Based on Valid Move Sequences in Snake&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="-597" y="162" width="1437" height="70" as="geometry" />
+          <mxGeometry x="-670" y="100" width="797" height="70" as="geometry" />
         </mxCell>
         <mxCell id="zjmTG8mhLb4dCEUL_jbz-34" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-192" y="412" width="370" height="378" as="geometry" />
