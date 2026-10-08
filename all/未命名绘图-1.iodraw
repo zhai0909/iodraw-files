@@ -104,7 +104,7 @@
         </mxCell>
         <mxCell id="gaejie28rJU5xu8OMJkC-26" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Helvetica&quot;&gt;Shared at the receiving end&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="gaejie28rJU5xu8OMJkC-19">
           <mxGeometry x="0.0222" y="2" relative="1" as="geometry">
-            <mxPoint x="-2" y="-32" as="offset" />
+            <mxPoint x="-92" y="-2" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="026l5Ib9RVevUx24vWKY-11" value="&lt;h2&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 18px;&quot;&gt;Shared Key Management&lt;/font&gt;&lt;/h2&gt;&lt;pre&gt;&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Helvetica&quot;&gt;Separation of action sequence keys and ChaCha20 keys&lt;br&gt;not written to public experiment logs&lt;/font&gt;&lt;/pre&gt;&lt;p class=&quot;p&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:Calibri;mso-fareast-font-family:宋体;&lt;br/&gt;mso-bidi-font-family:&#39;Times New Roman&#39;;font-size:12.0000pt;mso-font-kerning:0.0000pt;&quot;&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -165,6 +165,9 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="126" y="430" as="sourcePoint" />
             <mxPoint x="126" y="400" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="50" y="512" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="gaejie28rJU5xu8OMJkC-29" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Helvetica&quot;&gt;&amp;nbsp;Key-driven sequence&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="gaejie28rJU5xu8OMJkC-28">
