@@ -257,10 +257,10 @@
           <mxGeometry x="-240" y="770" width="250" height="50" as="geometry" />
         </mxCell>
         <mxCell id="9xgytEkWHtCiTpEPzjxM-1" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Calibri; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Direction text + public initial state/food seed&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-295" y="1070" width="360" height="50" as="geometry" />
+          <mxGeometry x="-320" y="1070" width="360" height="50" as="geometry" />
         </mxCell>
         <mxCell id="zjmTG8mhLb4dCEUL_jbz-46" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-160" y="380" width="410" height="370" as="geometry" />
+          <mxGeometry x="-180" y="380" width="410" height="370" as="geometry" />
         </mxCell>
         <mxCell id="9xgytEkWHtCiTpEPzjxM-3" value="" style="group" vertex="1" connectable="0" parent="zjmTG8mhLb4dCEUL_jbz-46">
           <mxGeometry x="30" width="350" height="370" as="geometry" />
