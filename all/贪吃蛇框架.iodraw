@@ -68,6 +68,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="PPlD9LML9M4Q4IiaFNaU-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-730" y="190" width="1890" height="970" as="geometry" />
+        </mxCell>
         <mxCell id="gaejie28rJU5xu8OMJkC-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#d5e8d4;strokeColor=default;curved=0;" parent="1" source="026l5Ib9RVevUx24vWKY-11" target="gaejie28rJU5xu8OMJkC-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="126" y="620" as="sourcePoint" />
@@ -173,9 +176,6 @@
         </mxCell>
         <mxCell id="gaejie28rJU5xu8OMJkC-34" value="&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 40px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Text Steganography Framework Based on Valid Move Sequences in Snake&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-597" y="150" width="1437" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="PPlD9LML9M4Q4IiaFNaU-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-730" y="190" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
