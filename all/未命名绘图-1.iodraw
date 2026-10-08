@@ -64,13 +64,10 @@
     </mxGraphModel>
   </diagram>
   <diagram id="n8Ix-tfPZaIT6iHWz4xw" name="第 2 页">
-    <mxGraphModel dx="3269" dy="1434" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2862" dy="1195" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="gaejie28rJU5xu8OMJkC-31" value="" style="group;fillColor=none;strokeColor=#82b366;container=0;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-653" y="660" width="953" height="210" as="geometry" />
-        </mxCell>
         <mxCell id="gaejie28rJU5xu8OMJkC-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="026l5Ib9RVevUx24vWKY-11" target="gaejie28rJU5xu8OMJkC-4">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="126" y="620" as="sourcePoint" />
